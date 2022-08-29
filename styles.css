@@ -252,5 +252,7 @@ a.social:hover {
 /* Media Queries ------------------- */
 @media screen and (min-width: 720px) {
   header {
-    padding: 15vh 1rem;
+    padding: 17vh 1rem;
   }
+
+}
